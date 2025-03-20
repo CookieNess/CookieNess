@@ -1,5 +1,5 @@
 # Hi! I'm Frederik (CookieNess) Kjærgaard 🍪
-## ℹ Here Is Some Stuff About Me:
+## ❔ Here Is Some Stuff About Me:
 🎓 MSc Computer Science and Engineering student at DTU & Integration Developer at Learningbank.<br><br>🔗 I design robust APIs and build smooth integrations to bridge the gap between systems, focusing on scalable backend solutions.<br><br>🚀 Always exploring new tech, refining my skills and tackling complex system challenges.<br><br>🎮 When I'm not coding, I'm gaming, dancing or diving into the latest tech trends.
 
 
